@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adith A Danthi</h1>
 <h3 align="center">Google Certified Android Developer | Web developer</h3>
 <p align="center">
-  <a href="https://gitlab.com/adith_danthi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39412016/92440638-71040c80-f1ca-11ea-99a7-49354d67b3c9.png" alt="adith_danthi" height="30" width="30" /></a>
-  <a href="https://codepen.io/adith-a-danthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="adith-a-danthi" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/adith-a-danthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adith-a-danthi" height="30" width="30" /></a>
-  <a href="https://www.hackerrank.com/adith_danthi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adith_danthi" height="30" width="30" /></a>
+  <a href="https://gitlab.com/adith_danthi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39412016/103199517-07427680-4911-11eb-87db-a97beee8efcc.png" alt="adith_danthi" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/adith-a-danthi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39412016/103199605-378a1500-4911-11eb-85ab-7d4370abbf5f.png" alt="adith-a-danthi" height="30" width="30" /></a>
+  <a href="https://www.hackerrank.com/adith_danthi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39412016/103199607-38bb4200-4911-11eb-9cf4-91d859f8061c.png" alt="adith_danthi" height="30" width="30" /></a>
 </p>
 
 - 🌱 I’m currently learning **Vue.js** & **Golang**
