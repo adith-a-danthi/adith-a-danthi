@@ -6,15 +6,35 @@
   <a href="https://www.hackerrank.com/adith_danthi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39412016/103199607-38bb4200-4911-11eb-9cf4-91d859f8061c.png" alt="adith_danthi" height="30" width="30" /></a>
 </p>
 
-- 🌱 I’m currently learning **Vue.js** & **Golang**
+
+
+- 🌱 I’m currently learning `Vue.js` & `React.js`
 
 - ⚡ Fun fact **I'm a Techie and a Swimmer**
 
-#### Skills
 
-| Languages |   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> |
-|:--:|:--:|
-| **Mobile Application Development** |   <img src="https://user-images.githubusercontent.com/39412016/92438801-259c2f00-f1c7-11ea-9d3f-cedc9abd5261.png" height="40"/>|
-|**Web Development**|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>|
-|**Databases**|  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>|
-|**UI/UX**|<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>|
+### Skills
+#### Frontend Technologies
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=Nuxt.js)
+
+#### Mobile Development
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+
+#### Backend Technologies
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=1E8CBE)
+![Postgres](https://img.shields.io/badge/Postgresql-black?style=for-the-badge&logo=Postgresql)
+
+#### Other Technologies
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase)
