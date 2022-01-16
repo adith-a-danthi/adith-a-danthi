@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adith A Danthi</h1>
 <h3 align="center">Google Certified Android Developer | Web developer</h3>
-<p align="center">
-  <a href="https://gitlab.com/adith_danthi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39412016/103199517-07427680-4911-11eb-87db-a97beee8efcc.png" alt="adith_danthi" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/adith-a-danthi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39412016/103199605-378a1500-4911-11eb-85ab-7d4370abbf5f.png" alt="adith-a-danthi" height="30" width="30" /></a>
-  <a href="https://www.hackerrank.com/adith_danthi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/39412016/103199607-38bb4200-4911-11eb-9cf4-91d859f8061c.png" alt="adith_danthi" height="30" width="30" /></a>
-</p>
-
-
+<br>
 
 - 🌱 I’m currently learning `Vue.js` & `React.js`
 
@@ -38,3 +32,10 @@
 #### Other Technologies
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase)
+
+---
+#### Let's Connect
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/adith_danthi)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adith-a-danthi/)
+[<img src="https://img.shields.io/badge/Email-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:adith.danthi@gmail.com)
+[<img src ="https://img.shields.io/badge/Portfolio-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22&label=">](https://adith.dev/)
