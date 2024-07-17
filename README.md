@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adith A Danthi</h1>
-<h3 align="center">Full Stack Developer</h3>
-<br>
 
-- 🌱 I’m currently learning `Vue.js` & `React.js`
-
-- ⚡ Fun fact **I'm a Techie and a Swimmer**
-
+Full-stack software engineer with over 3 years of experience building intuitive, user-friendly web applications. Quick learner and dedicated worker with a passion for design and problem-solving.
 
 ### Skills
 #### Frontend Technologies
@@ -16,6 +11,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=Nuxt.js)
 ![React.js](https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=React)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
 ![Chakra UI](https://img.shields.io/badge/chakra-black?style=for-the-badge&logo=chakraui)
